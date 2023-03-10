@@ -1,0 +1,1 @@
+lap_trinh_don_nhiem\startup_stm32f103xb.o: startup_stm32f103xb.s
